@@ -6,3 +6,6 @@ CE1
 #testcase screenshot
 
 ![Screenshot](Screenshot_CE1.jpg)
+
+# My truth table
+
