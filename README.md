@@ -9,5 +9,5 @@ CE1
 
 # My truth table
 
-![Truthtable](Truth_table_screenshot_CE1.JPG)
+![Truthtable](Truth_table_screenshot_CE1.jpg)
 
