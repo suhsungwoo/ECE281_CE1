@@ -5,7 +5,7 @@ CE1
 
 #testcase screenshot
 
-![Screenshot](Screenshot_CE1.jpg)
+![Screenshot](Screenshot_CE1.JPG)
 
 # My truth table
 
